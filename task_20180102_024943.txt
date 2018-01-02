@@ -1,0 +1,391 @@
+Loading data...
+Treating : 30911 entries...
+
+#################################################
+Query number 0 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@taegukie je veux bien mais je suis pas assez sexy, je suis pas pale ni rien. tu vois"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 1 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Il irait teeeeellement bien avec mon nouvel IPhone ! #LT"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Le bon pied https://t.co/xOxzh9iA4n"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 2 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "He's so hot"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "He's so hot"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "He's so hot"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Je m'ennuiiiiiiiiiiiiie"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "Le bon pied https://t.co/xOxzh9iA4n"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Les gens qui aiment pas le poulet sur ma vie bloquer moi"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 3 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Les gens qui aiment pas le poulet sur ma vie bloquer moi"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Les gens qui aiment pas le poulet sur ma vie bloquer moi"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Les gens qui aiment pas le poulet sur ma vie bloquer moi"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "La flemme c ma go"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 4 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#crimes tient donc le fiston qui tue sa mère , c impensable pour moi"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "He's so hot"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 5 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@capucinegriot Le programme d'histoire est vraiment chiant. Je croyais qu'il le changeraient, apparemment non ?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Colour:n- red, green, blue, gray, blacknPlease visit our online shop:nhttps://t.co/9FcLmY2h7z https://t.co/W8hy2IQmDE"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Le bon pied https://t.co/xOxzh9iA4n"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 6 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@berall @davlgd @krystof_L oui car il n'achète pas avec son argent mais celle des banques tant Bill Gates ne vide pas ses comptes ..."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@berall @davlgd @krystof_L oui car il n'achète pas avec son argent mais celle des banques tant Bill Gates ne vide pas ses comptes ..."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@berall @davlgd @krystof_L oui car il n'achète pas avec son argent mais celle des banques tant Bill Gates ne vide pas ses comptes ..."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@WoodyNamNam @ZuhroTheory @HayronSJ MERCI WOODY j'essaye de lui faire comprendre depuis 10min !"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "Les gens qui aiment pas le poulet sur ma vie bloquer moi"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@godelbeer @tno_lo cc moi aussi jsuis cho"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "He's so hot"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 7 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Rogliano2 En Corse, peu de FN,les voix anti-immigration vont aux indépendantistes! Le Vivre Entre Soi , choisi en qq sorte ! #cdanslair"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+
+#################################################
+Query number 8 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@cavousf5 Et pourquoi vs leur parlez politique, à ces gens là? d'1 autre monde, qui nous fait bien + rêver.. surtout qu'ils ne votent pas.."
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "@Dinaaben_ ziza"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@doudouulefa nan même pas. Tu me vois tout-par toi mdrrr."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 9 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "My newsletter La Passion de l'Innovation (Fr Eng Esp) N° 7 worldwide urban innovation u0026gt 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "En fait je suis grave vexée"
+ 
+Simulating human response : 0 
+
+Using QUIRE :
+Tweet :  "@berall @davlgd @krystof_L oui car il n'achète pas avec son argent mais celle des banques tant Bill Gates ne vide pas ses comptes ..."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@saMiicchan PARURU EST BIEN CLASSER ! MOI JVOUS DIS, @Kisa_48 C'EST AKI-P ET @Neslyha PARURU !!!"
+ 
+Simulating human response : 0 
+
+
+
+
+#################################################
+Execution time : 61.992753s 
