@@ -1,0 +1,3389 @@
+Loading data...
+Treating : 2000 entries...
+
+#################################################
+Query number 0 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@SwiftieParis13 on va quand même pas se plaindre :3 elle slay déjà assez comme ça x)"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Guilaum0 Ça t'intéresse? 😉 https://t.co/BnKuafM3oV"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Guilaum0 Ça t'intéresse? 😉 https://t.co/BnKuafM3oV"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Comment communiquer plus à moindre coût sur vos solutions ? #dataviz #BigData #bi https://t.co/PEPgEuxyee https://t.co/5lRacmcZGw"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "César, l'homme qui parlait aux chiens Aujourd'hui à 20:35 sur Nat Geo Wild.nn https://t.co/sYyN8dJtuN nvia @TeleLoisirs @NatGeoWildFr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@TheVampsJames @elliegoulding yup👍👍 https://t.co/Uu1tYS1j3Z"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 1 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@ElisaMoua tu te dis l'inverse et ca fait un beau cadeaux  
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "je suis entrain de stresser ma race je veux savoir ma moyenne mais en vrai jsais que je vais me faire niquer"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "je suis entrain de stresser ma race je veux savoir ma moyenne mais en vrai jsais que je vais me faire niquer"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@bzhaline35 ca n'a rien a voir tu es libre je regrette pour toi mais si tu as des enfants sans père (ou X et 3000 f/s) je suis pas pour"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Cette rigidité que l'on observe chez ceux qui croient se dresser en bombant le torse, quand ils ne font que se recroqueviller intérieurement"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@JohnnyChienDoux a un mec de la république pourrait se faire des courses avec les gens qui"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 2 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@ESLMetalGear No, video of the match ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "JE SUIS PAS CONTENTE"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "JE SUIS PAS CONTENTE"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@BichetteNadege @louane @StevenBellery @louane @LabelFontana @MercuryFrance @RTL_presse classe tu as gagné l'album de Louane merci @LVT_RTL"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Objectif N°1  de Daesh, est le retrait de nos forces militaires! Le VivreEnsemble est loin derrière,sauf pour nos immigartionnistes! #cavous"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@jeembl le texte complet https://t.co/C7VK22NLFt"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 3 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Maria_Poussifeu https://t.co/NVHTJz5Z73"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@SonyFrance apres 30 mails, Incapable de savoir ou et prix reparation de ma sonygoogletvbox (ref /13561982)..pfiou"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@SonyFrance apres 30 mails, Incapable de savoir ou et prix reparation de ma sonygoogletvbox (ref /13561982)..pfiou"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "L'changement ça va me faire le plus de bien !"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Swzle @IngloriousJojo #non"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@safaemegzari @iJesseWilliams @SarahDrewGreys @msdebbieallen nOh yes #NeverForget #rip😭😭💔💔"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 4 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "#BelleTouteNue bravo encore pour cette émission , quelle belle performance sur Twitter compte tenue de l'heurebravo https://t.co/cg6ueoSVAz"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Ethic : le patronat a toujours le chic › https://t.co/DzaHl0bvzs #Impôts"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Ethic : le patronat a toujours le chic › https://t.co/DzaHl0bvzs #Impôts"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Celle qui m'a poussé à être srx là dedans et dont le souvenir m'a conduit à reprendre saura même pas qu'un projet est finalement sorti"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "J'ai 2h pour manger ."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Cette rigidité que l'on observe chez ceux qui croient se dresser en bombant le torse, quand ils ne font que se recroqueviller intérieurement"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 5 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "LES JEUNES doivent s'engager dans LA CHEVALERIE :et combattre physiqu tous ces Pourris! ex: faux f par Huissiers pour NOTAIRES Honte à vous!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Swzle @IngloriousJojo #non"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Swzle @IngloriousJojo #non"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Je meurs Océane et son copain sont trop mignon"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Diderot12 @fierviking @ElyseeMarine @uejf De quoi se mêle t'il,qu'il s'occupe de ses ouilles qui tuent, violent et on fichu le bordel ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@MchNeazTer @ScrimsVite nnnn on a split puisque notre last pouvez pas bcp jouer, du coup on reforme R avec un de mes m8"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 6 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Donc d'après @gerardFiloche ,limiter le flux migratoire en hausse, et incessant depuis 40 ans, c'est du fascisme ?! #lci @lci #Tf1 @Tf1"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Min_Finances @_Bercy_ @partisocialiste @Mitterand_F #LeCopainPS #lescopainsdabord #lechangementcestmaintenant #13decembre"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Min_Finances @_Bercy_ @partisocialiste @Mitterand_F #LeCopainPS #lescopainsdabord #lechangementcestmaintenant #13decembre"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@pbeyssac @legrugru @Taerlys @Nontenda La démocratie c'est bien que quand tout le monde pense comme moi."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@OhmarieCS Merci à vous...  
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@VicGonalons bah oui L'OL c'est une grosse Equipe de foot même si  actuellement c'est pas Ca 😁"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 7 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "J'peux plus rester a lyon la 😣"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@PtdArcole @libuska_c Hollande est aux commandes pour redorer son blason !"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@PtdArcole @libuska_c Hollande est aux commandes pour redorer son blason !"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#Grenoble / En une du PB mercredi, l'expression jeune public. Et en photo, l'une de ses grands représentants grenobloiss. Une idée ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@ScrimsVite Gros TS PS4?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "César, l'homme qui parlait aux chiens Aujourd'hui à 20:35 sur Nat Geo Wild.nn https://t.co/sYyN8dJtuN nvia @TeleLoisirs @NatGeoWildFr"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 8 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "UNE VILLE SANS HISTOIRE DIT LE CRETIN DE JOURNALISTE PARCE QUE CES DERNIERS ONT VOTES FN !!!!!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Corse où le FN est bas, les listes régionalistes se regroupent! Scores plus importants pour le repli identitaire limité à l'île! @cavousf5"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Corse où le FN est bas, les listes régionalistes se regroupent! Scores plus importants pour le repli identitaire limité à l'île! @cavousf5"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@bfontn d’acc"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@mimictout2 @LeilaBenKhalifa oh, caramel est pour moi!!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Los idiomas están introducidos. Claaaaaaaaaaaaaaaaaaaaaaaaaaro. #7DElDebateDecisivo"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 9 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "https://t.co/ino55cMSrL via @CBSSports"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@UniversalSerie #seriedelavent Tony Gillingham"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@UniversalSerie #seriedelavent Tony Gillingham"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@AriMelber FOLLOW ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@ZuhroTheory @WoodyNamNam @HayronSJ T'es un gamin j'ai juré ! pff"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#DanyBoon le multimillionnaire subventionné avec l'argent publique crache à la gueule des 30 % d'électeurs du #FNnnhttps://t.co/ou9nCIbdXQ"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 10 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@MAIREDIROISE Finalement, tout ça c'est des salades... n@maria_andy2 @EtienneBaldit"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "الساعة 5:12 ، تصويت 👑nnhttps://t.co/pT0QMLFVtu https://t.co/PR7r1mZ3HK"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "الساعة 5:12 ، تصويت 👑nnhttps://t.co/pT0QMLFVtu https://t.co/PR7r1mZ3HK"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "https://t.co/QzEYHQzdFX nUn jour je ferrais mon shopping comme ça. #Bentley #BillionaireBoy"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@PierreMenes a quand ta présence dans j+1 en tant qu'invité?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Le score Fn est dû au flux migratoire, attentats, et celui du Ps à la monopolisation théâtrale des médias par le Pouvoir ! #ggrmc @gg_rmc"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 11 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@nobutyas c koi sa 4-saint"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "love love love U found found found :'("
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "love love love U found found found :'("
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "J aime une video de @HugoPOSAY https://t.co/NtvXjEztlK"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Miateamaymeila tu nous manques aussi, Mia."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Le score Fn est dû au flux migratoire, attentats, et celui du Ps à la monopolisation théâtrale des médias par le Pouvoir ! @Patrick_Ollier"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 12 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@asmaahadad_ali للناس الحلوين والناس السهرانين https://t.co/9m3n7SyuDU"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@taegukie @henrylau89 j'ai rien contre les chubby oh"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@taegukie @henrylau89 j'ai rien contre les chubby oh"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#YR Sage scenes https://t.co/FF90I3PzFa"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Ah d'acc, maintenant ça ignore."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "En vrai j'me suis mise dans une sacré galère"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 13 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "When nothing goes right, go left. Unknown #quote #quoteoftheday #shouldtry"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Et l'élève qui dit que si dans ces ateliers il apprend mieux puis se reprend pour dire ben en fait non #priceless #college2016"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Et l'élève qui dit que si dans ces ateliers il apprend mieux puis se reprend pour dire ben en fait non #priceless #college2016"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#LRDS MACHO MAN SAMIR C CLAIR !!!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Faudrait je sorte de mon bain quand mm"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#crimes tient donc le fiston qui tue sa mère , c impensable pour moi"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 14 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "24h dans la vie d'une faille (presque) zéro déchet via @lemondefr  : https://t.co/aGvRQnYTjl https://t.co/OfMYMyQPBA"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@DryZeCOD Debloque le belge toi t'es un pd pire que Rimzh la vie .. quoi quand nan vous etent tous les deux des btard enft"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@DryZeCOD Debloque le belge toi t'es un pd pire que Rimzh la vie .. quoi quand nan vous etent tous les deux des btard enft"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@ScrimsVite  TS DE TOP FR?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Comment rester sérieux face à la vie quand tu vois ça https://t.co/meHqHsmrhb"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@braxuss @CesarStrawberry @Sorayapp en el 92 que argumentaban no existía la luz eléctrica"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 15 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@pathalie81 @45rosalies @FN_officiel @MLP_officiel @Marion_M_Le_Pen @nicolasbayfn @louis_aliot @f_philippot Paré ! https://t.co/dK1YeZIkKU"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@jeremieperrih duuuuuuuur mais je m'en doutais dès que j'ai vu ce qu'il allait se passer dans la 5b"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@jeremieperrih duuuuuuuur mais je m'en doutais dès que j'ai vu ce qu'il allait se passer dans la 5b"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "https://t.co/1s7vYHGjCO"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/dMBnzq62j0"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@nobutyas mdr alor je ne ve pas aller a Londres et je dois rester clouée ds ma ville 3ans encore"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 16 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Colour:n- red, green, blue, gray, blacknPlease visit our online shop:nhttps://t.co/9FcLmY2h7z https://t.co/W8hy2IQmDE"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@ChandelonR ESTROSI nous ANNONCE  :  BATACLAN 2 et 3  , mais à NICE, CANNES et TOULON !!!nFRANÇAIS PATRIOTES RESSAISISSEZ-VOUS Général COSTE"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@ChandelonR ESTROSI nous ANNONCE  :  BATACLAN 2 et 3  , mais à NICE, CANNES et TOULON !!!nFRANÇAIS PATRIOTES RESSAISISSEZ-VOUS Général COSTE"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@mimictout2 @LeilaBenKhalifa pardon, caramel et coco!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Kyara, yasmin ❤ https://t.co/YfRBs7W2Jr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@HibouDiurne @Prophetie91 @_Alex_Effect_ On est d'accord!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 17 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Les chaussettes sont accrochées à la cheminée en attendant la pluie de cadeaux que vous réserve Avis #AvisUnlockXmas https://t.co/jaaIDnMOR5"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@lesseriesTF1 ya aussi aroow tres bien ecrit acteur top pourquoi sa baisse au etat unis"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@lesseriesTF1 ya aussi aroow tres bien ecrit acteur top pourquoi sa baisse au etat unis"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "LCI ferait mieux de recruter du personnel compétent!C'est aberrant de nommer un candidat machin chose surtout quand il s'agit de @sauvadet"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@PtdArcole @libuska_c Hollande est aux commandes pour redorer son blason !"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@JMS_NGC_ @IsabelScigliano quelle conne !"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 18 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@FATEMLOVZPIZZA @xotwx je comprends ta douleur fatibae"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Putain je vais me trimbaler un rhume toute la semaine 😒"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Putain je vais me trimbaler un rhume toute la semaine 😒"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@FATEMLOVZPIZZA @xotwx je comprends ta douleur fatibae"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "'everton', 'romelu' et 'beziers' est désormais une tendance dans France https://t.co/ZWx4JjIYAU"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@yulli0705 Eh ouiiiii j'ai lu sur @lesinrocks"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 19 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "#crimes tient donc le fiston qui tue sa mère , c impensable pour moi"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Damn https://t.co/ISo9rIKhVL"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Damn https://t.co/ISo9rIKhVL"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Le travail que je devais rendre Hier https://t.co/o7Wfh2IVOi"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "On comprend pour quoi ils se font exploser ... https://t.co/ESJDF9s6Ai"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@RomainSASSET oui mais ça te permettrait de les laisser au chaud pendant l'hiver"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 20 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@taegukie i think Rap Monster likes latino song or he doesn't know. but i'm sure that if he watch the videos, he will like. ahaha"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@ToriKelly SAMEJBNGSFJLKNFJVWRGBFJDKNGJFKGNFJKSVNFDJKNDVJKLSDJIFSEDFHJEN?KDLJMCEUJGFDHNCIZLHNVUFDWJKJXGUNFJVCBNUFJHVBWFUDJVBFWDJKFCRUFIGBHJN"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@ToriKelly SAMEJBNGSFJLKNFJVWRGBFJDKNGJFKGNFJKSVNFDJKNDVJKLSDJIFSEDFHJEN?KDLJMCEUJGFDHNCIZLHNVUFDWJKJXGUNFJVCBNUFJHVBWFUDJVBFWDJKFCRUFIGBHJN"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@AnaisRaoux @FranceFintech Oui toujours en recherche ! :) Vous recherchez un CM en stage ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "#DanyBoon le multimillionnaire subventionné avec l'argent publique crache à la gueule des 30 % d'électeurs du #FNnnhttps://t.co/ou9nCIbdXQ"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Ils sont marrants les Toulonnais, ils virent Chevallier FN pour le PS et vote pour le #FN à 40%"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 21 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@CaroleMiramont lutte contre les pollutions nucléaires par aspiration du nuage radioactif : https://t.co/t78mtIgbt3"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "En vrai j'me suis mise dans une sacré galère"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "En vrai j'me suis mise dans une sacré galère"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@ROG_Darkray @Lusciiana @DOFUSfr Tqt je m'en souviens, j'lavais dis pour rigoler dans la matinée et dans laprem cetait tjrs pas ouvert mdr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/Z9e1uQM6So"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Pour le 2nd tour, restons mobiliséEs pour une #IDF plus Ecologique et Solidaire avec @emmacosse et @claudebartolone https://t.co/1D3gPgKi38"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 22 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Vide garage, je vends mes deux vélos : mon Labyrinth Agile, montage enduro haut de gamme. https://t.co/fGovQLD1B3 https://t.co/XuHbkQXqdE"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "#TPMP comment ne pas être d'accord avec @EnoraMofficiel c vrai on nous a montré que le bon côtés des choses !"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "#TPMP comment ne pas être d'accord avec @EnoraMofficiel c vrai on nous a montré que le bon côtés des choses !"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@DominiqueReynie Il menace de faire sauter la poste de Woluwe-Saint-Pierre: reconnaissez-vous cet homme https://t.co/WwhDAWMaqe … via @coste"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Clé USB 16GB, ça part en couille. https://t.co/yUv9NvBcft"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@TehMaxx Ouai beau reportage sur l'OL"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 23 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "je sais que vous êtes tous jaloux de ma sérénitée"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@rose600_rosa The pic you have near your Rosa .. is it your first name?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@rose600_rosa The pic you have near your Rosa .. is it your first name?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Il a grave embelli j'étai choqueeeer . 😱😍😍"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Un tournant pour la recherche @EMLYON avec la création de #clusters @Philippe_MONIN ! https://t.co/1lN6nh35Pw https://t.co/KpbOpfbXLz"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@cyrilmathey69 oui c'est vrai...qu''aurait-il pensé de tout ça ? Le socialisme dans le Nord ça voulait dire quelque chose."
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 24 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "#LRDS MACHO MAN SAMIR C CLAIR !!!!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@SwiftieParis13 on va quand même pas se plaindre :3 elle slay déjà assez comme ça x)"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@SwiftieParis13 on va quand même pas se plaindre :3 elle slay déjà assez comme ça x)"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "McDo Bellecourt DE LYON. #pasdoué"
+ 
+Simulating human response : 1 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@fawaz_dr @osamaalkhamees nههههههههههههnأي رقّة هذه...☺"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@NathanHwr bah tu prends le Noctilien? T'étais où ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 25 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Ils on foutu la merde keu dans leur slip #Lacremedelacreme"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "#BelleTouteNue Poser nue , mais même pas en rêve quoi !!!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "#BelleTouteNue Poser nue , mais même pas en rêve quoi !!!"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Bstarfr le 2.5 de @thegame c'est le plus West coast"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@AnneEecke Excusez moi ,bonne journée ."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "عندما أنتشرت إشاعة أنه أصاله تراجعت عن nموقفها السياسي عن الحكومة السورية 2012. https://t.co/YsgwFUDKbh"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 26 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Dinaaben_ t tunisienne toi nn ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@taegukie déjà sans moi hein"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@taegukie déjà sans moi hein"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@mddalpes https://t.co/FdWu0iGgh5"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@UnHlelBlanc j'espère que c ça sinon j'ai envoyé à un inconnu"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@taegukie @henrylau89 j'ai rien contre les chubby oh"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 27 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Le_Ptit_FilsDep @Laurazuur Juste sa veut dire quoi bae ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@safaemegzari @iJesseWilliams @SarahDrewGreys @msdebbieallen nOh yes #NeverForget #rip😭😭💔💔"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@safaemegzari @iJesseWilliams @SarahDrewGreys @msdebbieallen nOh yes #NeverForget #rip😭😭💔💔"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Comment rester sérieux face à la vie quand tu vois ça https://t.co/meHqHsmrhb"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/R2FVvUHtWP @taegukie Jimin alias Poil de Carotte 2.0 (red headed)you replaced the character of a novel of Jules Renard"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@EmpireFOX I hate her  more and more since the beginning !!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 28 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Damn https://t.co/ISo9rIKhVL"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Saturapt J'aime bien les rendu c4D mais pas la typo"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Saturapt J'aime bien les rendu c4D mais pas la typo"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Quand sa respecte plus guillaume sur insta mddddr KO 😂😂 @SSJess4 @Vertual42 @SonOfHaIe https://t.co/EYcKDU3Qfv"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "i have to make a story in 5 picture that i have to take,can you help me? @LaurenJauregui"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "y en a ils sont en sang sur CB ici sa me kill"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 29 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "#Instagram #Followme 🐻 https://t.co/Vhk5n17jf1"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Le chef de file @MoDem en #AuRA à suivre et à écouter ! #Regionales2015  https://t.co/L97fRN0m0Y"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Le chef de file @MoDem en #AuRA à suivre et à écouter ! #Regionales2015  https://t.co/L97fRN0m0Y"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Psychodelie :("
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@OCSTV a déjà Black Sails de la Starz ... bientôt Outlander ? #FranceNeedsOutlander https://t.co/4s7gcL5jgw"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Thida_alsina Moi jui moche et jme la pète ps sa prouve que chui bo nn"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 30 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "You youze tou caule me on my sell fone"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@BALTHY77 ah bon on m'a dit que c'est lui l'invité"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@BALTHY77 ah bon on m'a dit que c'est lui l'invité"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@France4TV Outlander : plus de 27 million livres vendus dans 27 pays #FranceNeedsOutlander https://t.co/W396mvCNDI"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@monblogdefille Un matin sans voir l'ouverture des calendriers d'Hélène, ce n'est pas un bon matin ! ^^"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Cette année avec la chute de Shy'M et le vent que c'est pris Serge Lama on as bien ris ça vas resté dans les anales ^^"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 31 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui, est prêt à toutes compromissions pour sa place ! @Lopinion_fr"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@SRelardi J'ai bien peur que non."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@SRelardi J'ai bien peur que non."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Cameleon2015 @humourdegauchee nn3.5 % au niveau national"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "C'que je préfère c'est voir les gens que j'aime heureux. C'est le cas, alors je m'en réjouis."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@jeremy_prog sérieux ? Ah merde…"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 32 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@DenisBrogniart faut aller à la plage de Cuba Cabana nHaha"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@bubucatt Bueno fue de noche, en españa era ya 9, y siempre me acuerdo y lo recuerdo con una vela"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@bubucatt Bueno fue de noche, en españa era ya 9, y siempre me acuerdo y lo recuerdo con una vela"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@melin456 quand c'est comme ça, ne mentionne pas Leila stp,"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@T0finoy @eBlacksheep ça sera la prochaine fois  
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#BelleTouteNue Poser nue , mais même pas en rêve quoi !!!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 33 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "trois beaux livres qui nous plongent dans le monde de la radio https://t.co/kCv9hhOjtC @editionsduchene https://t.co/5MYWrTqj5R"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Clé USB 16GB, ça part en couille. https://t.co/yUv9NvBcft"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Clé USB 16GB, ça part en couille. https://t.co/yUv9NvBcft"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@BALTHY77 ouais je pense aussi"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@tnAoo elle rebondit bien ^^"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Quand j'apprends que le FN ne fait que 15% dans mon arrondissement à Lyon . nnBlack Bobo Beur. https://t.co/wYSLVFuZ2N"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 34 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@taegukie @BTS_twt j'ai pensé à tout ! hein c'est mieux que North et Saint ou titeuf"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@ElisaMoua tu te dis l'inverse et ca fait un beau cadeaux  
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@ElisaMoua tu te dis l'inverse et ca fait un beau cadeaux  
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Les femmes ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Wsh elle est baiser #lrt"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Cyrilhanouna bravo de dire de voter pour qui on veut !! merci !!respect !!enfin un homme intelligent !!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 35 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "C'est même pas la peine de regarder les infos... POLITIQUE POLITIQUE POLITIQUE PARTOUT ! 😓"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Neslyha @momokurozetto Hé ! Je dois le prendre comment ? x)"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Neslyha @momokurozetto Hé ! Je dois le prendre comment ? x)"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@taegukie @henrylau89 really ?? he can talk french ? t'es un vrai de vrai henry"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Merci Marie ! #8décembre"
+ 
+Simulating human response : 1 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#LRDS Mon dieu j'attends les commentaires de SAMIR !!!!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 36 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@AnneEecke Excusez moi ,bonne journée ."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Les donneurs de leçons incapables,qualifient le FN de fasciste,et des LR ,de FN ! Après quoi, ils dénoncent les amalgames ! #lesRepublicains"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Les donneurs de leçons incapables,qualifient le FN de fasciste,et des LR ,de FN ! Après quoi, ils dénoncent les amalgames ! #lesRepublicains"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "on va écouter nero nemesis"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Великолепная акустика собора. Мессу читают на французском @ Basilique Notre Dame de Fourvière https://t.co/kPkkUt6kmN"
+ 
+Simulating human response : 1 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Recherchons des complémentarités plus d’efficacité dans des actions coordonnées mutualisées où les habitants ont droit de cité #Vénissieux"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 37 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@EmpireFOX I hate her  more and more since the beginning !!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui, est prêt à toutes compromissions pour sa place ! @Lopinion_fr"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui, est prêt à toutes compromissions pour sa place ! @Lopinion_fr"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "My old schoolChina Academy Of Art ( école des beaux arts de la Chine)#art #school #snow #China #paysage #Figaro https://t.co/YFpeIYnMET"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Vi betalar för lite. Dra åt snaran om utsläppen, skriver hållbarhetschefen @UlfWikstrm Fortum Värme https://t.co/4GO7iuXxmI @fjarrvarme"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#Instagram #Followme 🐻 https://t.co/Vhk5n17jf1"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 38 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@bubucatt Bueno fue de noche, en españa era ya 9, y siempre me acuerdo y lo recuerdo con una vela"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Guy_Bedos Sans vouloir être défaitiste, la haine fait son grand retour.Le passé n a pas du être assez ignoble.Ils en redemandent."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Guy_Bedos Sans vouloir être défaitiste, la haine fait son grand retour.Le passé n a pas du être assez ignoble.Ils en redemandent."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@France3Provence PROGRAMMES du PS et REPUBLICAINS:  C'EST BATACLAN 2  ILS ont FAIT ASSEZ DE CONNERIES COMME ça! ça SUFFIT-MERCI AU-REVOIR (G"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Lrt"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Nadal44801402 @thomasSNCHZ @trashtalkzr la vraie nature de John révélée au grand jour"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 39 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Mdr Jeremy non il fallait pas parler de Romain! #LVDCB"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Antho_Vnn @lordkurtis 😂😂😂😂😂"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Antho_Vnn @lordkurtis 😂😂😂😂😂"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#LRDS @M6 Cela fait 28 minutes que l'émission a commence et déjà twitter s'enflamme pour 2 candidats, bien joué 👏🏻 https://t.co/B6GxbYBV1j"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/mLbmpDo3Gm avis aux #Louaners vous pouvez poser vos questions a @louane #M6 @m6info  certaines passeront a l'antenne"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Damn https://t.co/ISo9rIKhVL"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 40 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@mattismeichler @DirectMatin Candidature envoyée, à bientôt j'espère."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "UNE VILLE SANS HISTOIRE DIT LE CRETIN DE JOURNALISTE PARCE QUE CES DERNIERS ONT VOTES FN !!!!!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "UNE VILLE SANS HISTOIRE DIT LE CRETIN DE JOURNALISTE PARCE QUE CES DERNIERS ONT VOTES FN !!!!!"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "7/8 - Ouverture portail de l'AFL : merci aux collectivités pilotes ! https://t.co/Pv61bIlilE @Motte_Servolex, Wittenheim, @ville_lannion"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "McDo Bellecourt DE LYON. #pasdoué"
+ 
+Simulating human response : 1 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "https://t.co/xkjCZtIFcw"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 41 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "En vrai j'me suis mise dans une sacré galère"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@BeRbAtOv69 ✌🏻️✌🏻"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@BeRbAtOv69 ✌🏻️✌🏻"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@ScottRayane 😏"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@bernard_adele vi"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "UNE VILLE SANS HISTOIRE DIT LE CRETIN DE JOURNALISTE PARCE QUE CES DERNIERS ONT VOTES FN !!!!!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 42 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Sebajun3030 @HoussamMMG t'es autant de mauvaise fois avec Jigga que moi avec Pac j'ai remarqué"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Attendez j'vais sur le twitter de rohff tout ceux qui le follow vous prenez un unfollow bande de sataniste"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Attendez j'vais sur le twitter de rohff tout ceux qui le follow vous prenez un unfollow bande de sataniste"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@rafaeldlf @EmpireFOX congrats amazing"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Ils on foutu la merde keu dans leur slip #Lacremedelacreme"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@PtdArcole @libuska_c Hollande est aux commandes pour redorer son blason !"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 43 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "TeamScrim"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "#crimes tient donc le fiston qui tue sa mère , c impensable pour moi"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "#crimes tient donc le fiston qui tue sa mère , c impensable pour moi"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Dites, le fait d'apporter une petite fiche avec des questions à poser lors d'un entretien pour un stage, ça passe ou non ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@zoebeliebs je te jure !! je suis dead"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "En direct de Conseil municipal : les orientations budgétaires 2016 en débat pour un budget de résistance https://t.co/oaqzlPwJAh #Vénissieux"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 44 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@taegukie déjà sans moi hein"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Ça manque les moments à Aubenas avec tout le monde, on profite jamais assez"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Ça manque les moments à Aubenas avec tout le monde, on profite jamais assez"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Je ne veux pas que #TheLeftovers s'arrête"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Balles couille de ta vie , Ton avie"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@ZuhroTheory @WoodyNamNam @HayronSJ T'es un gamin j'ai juré ! pff"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 45 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Mdrrrrrrr https://t.co/QEWjpzqxVJ"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Just posted a video @ Lake Geneva https://t.co/hc1TMyCkKf"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Just posted a video @ Lake Geneva https://t.co/hc1TMyCkKf"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Ridgley_Vefand @LesVioletsCom Ou inconscient"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "bjr mes fans!!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@CecileDuflot lutte contre les pollutions nucléaires par aspiration du nuage radioactif : https://t.co/t78mtIgbt3"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 46 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@JohnnyChienDoux a un mec de la république pourrait se faire des courses avec les gens qui"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Tu sais que tu es en droit quand pour toi MAJ ne veut pas dire Mise à Jour"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Tu sais que tu es en droit quand pour toi MAJ ne veut pas dire Mise à Jour"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Je fais quoi ? J'appelle le Hezbollah ? https://t.co/EYHDoQtdaC"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Nicki is nominated for 3 GRAMMYs!:nnBest Rap Album - The PinkprintnBest Rap/Sung Collaboration - OnlynBest Rap Performance - Truffle Butter"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@BintHarith_ @iam_inesss en 3ersou ma3 ba3na"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 47 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Nicki is nominated for 3 GRAMMYs!:nnBest Rap Album - The PinkprintnBest Rap/Sung Collaboration - OnlynBest Rap Performance - Truffle Butter"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "2 tweet attık:)) @AMeteSrmen göze battık"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "2 tweet attık:)) @AMeteSrmen göze battık"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@monblogdefille Un matin sans voir l'ouverture des calendriers d'Hélène, ce n'est pas un bon matin ! ^^"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Nardine l'anxiété matinale  #runninggag  #afewbaddays"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Je crois que j'ai trouvé les locaux ou je vais monter mon projet u0026lt 
+Simulating human response : 0 
+
+
+#################################################
+Query number 48 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@lesseriesTF1 ya aussi aroow tres bien ecrit acteur top pourquoi sa baisse au etat unis"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Noël j-18 ❄️🎅🏽🎄 @ A Chacun Sa Tasse https://t.co/PHcR4v0feR"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Noël j-18 ❄️🎅🏽🎄 @ A Chacun Sa Tasse https://t.co/PHcR4v0feR"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@AccioPadackles je veux dire le gars/la fille deja il/elle sait que je suis en pyjama sur mon canap avec mon ordi et de la bouffe m'voyez ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "❄️ l'année dernière cet emoji je l'utilisais h24 ❄️"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@QuentinSannie belle annonce avec apple .... a quand une phantom compatible airplay ??? mise a jour firmware ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 49 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@vinc53000 tors manequin? il manque des lettres........"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Bow tie baby #Oliver ❤️🎄🎀 https://t.co/5VBuidopSC"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Bow tie baby #Oliver ❤️🎄🎀 https://t.co/5VBuidopSC"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "LUNDI DES PRINCESSES + 👸🏻💪🏻 Je te masse je te fais du bien, Tu me masses tu fais du bien #businesswoman #bienetre https://t.co/HhVXvd0y05"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@HMeghane ah au top!!!!!!! Trop contente pour toi 😛"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "y'a quand même un mec de Monsta X qui s'appelle SHOWNU. nje sais pas si on dit shownou ou SHOW-NUUUU"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 50 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@FaisMoiJouir salut"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Runendoniel bonne nuit"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Runendoniel bonne nuit"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "If you have a dream,a passion,just try - @LanaParrilla  #EvilRegalArt #FanArtFriday #SwanQueen #OutlawQueen https://t.co/5YGORoe9tQ"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@eun_munyo @mijeane4 @Glande1erClasse @FrancoiseChard @MomoPapat @ChristelTrichet @pymouche bonjour :-D https://t.co/aOywxfFHDQ"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Déjà question culture vous savez pk les Final Fantasy s'appellent comme ça ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 51 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Got the pollution goin' up, on a thursdaaaaay. ♥ @ Lyon, France https://t.co/EvX32qdEbU"
+ 
+Simulating human response : 1 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@LaNeuvaine NOUS SOMMES CHRETIENS PRATIQUANTS et FRANCAIS. NOS FAMILLES ONT PAS SACRIFIE LEURS VIES POUR SE RETROUVER AU MEME POINT."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@LaNeuvaine NOUS SOMMES CHRETIENS PRATIQUANTS et FRANCAIS. NOS FAMILLES ONT PAS SACRIFIE LEURS VIES POUR SE RETROUVER AU MEME POINT."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "trois beaux livres qui nous plongent dans le monde de la radio https://t.co/kCv9hhOjtC @editionsduchene https://t.co/5MYWrTqj5R"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Gros projet avec la evoX ... vers un changement... #soon."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "The required 360° view on what inflation really is @Phoevos @LizzieCornish @phansonlowe @jrf_uk @AmbroseEP: nhttps://t.co/ZNEwsDlkzR"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 52 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "je suis dans la caca j'ai pas fait mon français"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Já e com orgulho ❤🔝👌 https://t.co/95WyLs1Jbk"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Já e com orgulho ❤🔝👌 https://t.co/95WyLs1Jbk"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Ce matin vers 10h30 GMT @play_give sur @RFI dans @7milliardsRFI 😊☺️"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@FATEMLOVZPIZZA @xotwx je comprends ta douleur fatibae"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Merci le conseil régional d'Auvergne"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 53 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "César, l'homme qui parlait aux chiens Aujourd'hui à 20:35 sur Nat Geo Wild.nn https://t.co/sYyN8dJtuN nvia @TeleLoisirs @NatGeoWildFr"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Idées #cadeaux pour #Noël nAccompagnez votre #thé de Noël avec une #théière en fonte !nhttps://t.co/KBLFdm19I5 https://t.co/MyI82u549x"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Idées #cadeaux pour #Noël nAccompagnez votre #thé de Noël avec une #théière en fonte !nhttps://t.co/KBLFdm19I5 https://t.co/MyI82u549x"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@NiLouisNiNon mais arrête de fangirler et sois rationnelle ! évidemment qu'elle s'est vendue, mais avec les fans, en dehors des fans y rien."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@MatdelOL ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@G4M3UR69 NIMPORTE QUOI IL Est la pour faire rire les gens pas pour etre president"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 54 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@_NashyBRixton  https://t.co/vO9NmZvVYC"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "T'es une meuf qui perce enfaite @kwcra"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "T'es une meuf qui perce enfaite @kwcra"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#LRDS Un mec qui se met de la crème, comment dire ça me surprend toujours autant mais c cool un mec qui prend soin de lui !"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Samir il casse deja les couilles sa svoit cest un arabe"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@__darkprincess_  grave , postbad tkt 👊🏼"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 55 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@BintHarith_ @iam_inesss en 3ersou ma3 ba3na"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Objectif N°1  de Daesh, est le retrait de nos forces militaires! Le VivreEnsemble est loin derrière,sauf pour nos immigartionnistes! #cavous"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Objectif N°1  de Daesh, est le retrait de nos forces militaires! Le VivreEnsemble est loin derrière,sauf pour nos immigartionnistes! #cavous"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@eun_munyo @mijeane4 @Glande1erClasse @FrancoiseChard @MomoPapat @ChristelTrichet @pymouche bonjour :-D https://t.co/aOywxfFHDQ"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Azy ils me donnent faim :( https://t.co/y2ZRUikedW"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#avantcourseslive R3 Entr à suivre.Cédric ROSSI 4 partant aujourd'hui 4 chances à grosses côtes... Jockey Nicolas PERRET !!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 56 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@nobutyas mdr alor je ne ve pas aller a Londres et je dois rester clouée ds ma ville 3ans encore"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "'everton', 'romelu' et 'beziers' est désormais une tendance dans France https://t.co/ZWx4JjIYAU"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "'everton', 'romelu' et 'beziers' est désormais une tendance dans France https://t.co/ZWx4JjIYAU"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#TPMP oui c courageux @EnoraMofficiel mais c maladroit de sa part tout de même , et il en a prit plein la gueule"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@TehMaxx Ouai beau reportage sur l'OL"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Saturapt J'aime bien les rendu c4D mais pas la typo"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 57 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "j'aodre"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "#couscousparty est désormais une tendance dans France https://t.co/ZWx4JjIYAU"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "#couscousparty est désormais une tendance dans France https://t.co/ZWx4JjIYAU"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Le oui en arabe égyptien : éè"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Hello @Cruelhandhc u0026lt 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#YR Free Coffee, Dylan won't be ruined, so many customers to be LOL"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 58 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Corse où le FN est bas, les listes régionalistes se regroupent! Scores plus importants pour le repli identitaire limité à l'île! @cavousf5"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Bazen göt yemiyor"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Bazen göt yemiyor"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#Regionales2015 Quand vont-ils comprendre que ce ne sont pas les investissements qui poses problèmes, mais les charges de fonctionnement"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Saturapt J'aime bien les rendu c4D mais pas la typo"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@icutestlouis dans le dvd des 5sos"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 59 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui,est prêt à toutes compromissions pour sa place! #lci #itele #bfmtv"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Ils on foutu la merde keu dans leur slip #Lacremedelacreme"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Ils on foutu la merde keu dans leur slip #Lacremedelacreme"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "¡¡Feliz cumpleaños, @BertinOsborne !! Los venezolanos nos alegramos con tus alegrias pq nuestro amor, respeto y admiración son recíprocos!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@asmaahadad_ali للناس الحلوين والناس السهرانين https://t.co/9m3n7SyuDU"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "https://t.co/7pcE960Wch"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 60 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "https://t.co/7pcE960Wch"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Alimou94 tu vas officialisé ton homosexualité je suis fier de toi alimou dit le gouffre abyssal"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Alimou94 tu vas officialisé ton homosexualité je suis fier de toi alimou dit le gouffre abyssal"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@ashleykrzk envi de te baiser"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@maisonvaleria @lemondefr Il n'a peur de rien, surtout pas du ridicule..."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Diderot12 @fierviking @ElyseeMarine @uejf De quoi se mêle t'il,qu'il s'occupe de ses ouilles qui tuent, violent et on fichu le bordel ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 61 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Neslyha @momokurozetto Hé ! Je dois le prendre comment ? x)"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Sebajun3030 @HoussamMMG t'es autant de mauvaise fois avec Jigga que moi avec Pac j'ai remarqué"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Sebajun3030 @HoussamMMG t'es autant de mauvaise fois avec Jigga que moi avec Pac j'ai remarqué"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Ouais c'est baaaaan Max 📝"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "#LRDS Pas mal le noir de la tête au pied mais la veste non arrête de tout retrousser à tout va"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@DenisBrogniart faut aller à la plage de Cuba Cabana nHaha"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 62 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Ça manque les moments à Aubenas avec tout le monde, on profite jamais assez"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "je me gèle les castagnettes"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "je me gèle les castagnettes"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Pour le 2nd tour, restons mobiliséEs pour une #IDF plus Ecologique et Solidaire avec @emmacosse et @claudebartolone https://t.co/1D3gPgKi38"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "TeamScrim"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Puisque FN bas enCorse,il faut y envoyer les migrants deCalais et implanter des centres d'accueil ! ça va sûrement passer... #conseildeparis"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 63 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@HaussmannParis nen lien avec les US aussi https://t.co/MjwhATcIpw"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Sur les snap de Marion mel elle  est tombé comme du n'importe quoi on dirait une girafe qui s'emmêle les pattes ptdddddr"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Sur les snap de Marion mel elle  est tombé comme du n'importe quoi on dirait une girafe qui s'emmêle les pattes ptdddddr"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "PAPAPAPAPAPAPPAPAPPALALLLALALLALALLALALMAMAMAM?ALALCCKCLCCLS"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@bzhaline35 désolé je t'aime mais il est tard"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Vogelsong J'ai étudié les PROGRAMMES du PS et REPUBLICAINS: C'est Désastreux ! Ce n'est ni cohérent,ni réaliste ! C'est Archaïque et Désol"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 64 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Guy_Bedos Sans vouloir être défaitiste, la haine fait son grand retour.Le passé n a pas du être assez ignoble.Ils en redemandent."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@teelm9 😂😂 on en parle de toi mdr ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@teelm9 😂😂 on en parle de toi mdr ?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@muffinxofxshawn @TheTide @TheTideAustin Merciiii"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "La galère des cadeaux d'anniversaire et des cadeaux de noël du mois de décembre 🙄"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Nico_o69 @Jumtiti @OL69FTW @Sh0otZ @un_Lyonnais @Le__Mee @opheldunord18 😞😞😞"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 65 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Mon anniversaire c'est la semaine prochaine. Vous voulez une idée cadeau ? Funko Pop Assassin's Creed. J'ai déjà Ezio."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "- Cyril ! Faites de la Politique ! Dites les choses aux gens !n- Non mais j'y connais rien moin- Mais eux non plus !n#TPMP"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "- Cyril ! Faites de la Politique ! Dites les choses aux gens !n- Non mais j'y connais rien moin- Mais eux non plus !n#TPMP"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Kyara, yasmin ❤ https://t.co/YfRBs7W2Jr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/iJWPjBrn2Y"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Les bienfaits d’une sieste sur votre corps et votre esprit via @Astucefille : https://t.co/6aBzId3Xuj https://t.co/RFmjYhKIyu"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 66 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Brijou57 pfff ça c'est de la haine!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@NiLouisNiNon mais arrête de fangirler et sois rationnelle ! évidemment qu'elle s'est vendue, mais avec les fans, en dehors des fans y rien."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@NiLouisNiNon mais arrête de fangirler et sois rationnelle ! évidemment qu'elle s'est vendue, mais avec les fans, en dehors des fans y rien."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "[Moment 8] #PlutoFlyBy : le survol de Pluton a capté l’attention et suscité la curiosité des Terriens sur Twitter 🔭🚀 https://t.co/Y9mjTUgISj"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Olivierm99 c'est bien  @MiladyFR qui a acheté les droits, ou je n'ai pas très bien compris ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@minininote 😂 ça aurait été trop facile et moins marrant, voyons 😂"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 67 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "j'suis une meuf trop bizarre vous pouvez pas comprendre"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "vs msaoulez"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "vs msaoulez"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "TAEYEON 태연_ I (feat. Verbal Jint) #np"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Ils sont marrants les Toulonnais, ils virent Chevallier FN pour le PS et vote pour le #FN à 40%"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@HMeghane ah au top!!!!!!! Trop contente pour toi 😛"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 68 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "je me gèle les castagnettes"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Mdrr  ristina elle en peu plus  #lrds #MTVStars one direction"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Mdrr  ristina elle en peu plus  #lrds #MTVStars one direction"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Yacine_DMN @Maa_Yass ahhaa koneu daleu mak Yass nouronegne à ce point  😂Ah d'accord merci way mais mba chéroul reK ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Aller en route pour Valence !!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "i have to make a story in 5 picture that i have to take,can you help me? @LaurenJauregui"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 69 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@PtdArcole @libuska_c Hollande est aux commandes pour redorer son blason !"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Julien pourquoi wsh"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Julien pourquoi wsh"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "RT  HELP Us! AIDEZ Nous! HILFE!  to #StopBokNal TAKE ACTION Now!! *https://t.co/F52fFhM8Ab n*https://t.co/cquaETHFJd https://t.co/hO0iDFAyvc"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Brijou57 pfff ça c'est de la haine!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "je me gèle les castagnettes"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 70 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Ddbyyyy nn ms voila kua"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Accuser #sarkozy de la montée FN,c'est entretenir le déni de réalité du pays,une illusion qui ne fera que le renforcer! #Lr #lesRepublicains"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Accuser #sarkozy de la montée FN,c'est entretenir le déni de réalité du pays,une illusion qui ne fera que le renforcer! #Lr #lesRepublicains"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@nobutyas salu"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@LaurentBibas @JOLYLILY 1 magouilleur de 1ière !"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@monalisa7508 Je ne crois en rien moi tu sais !"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 71 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "#JeuTPMP"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Depuis 1 mois #XavierBertrand et #Estrosi braconnaient sur les terres du #FNnnDepuis hier soir ils braconnent sur les terres du #PS et #PC."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Depuis 1 mois #XavierBertrand et #Estrosi braconnaient sur les terres du #FNnnDepuis hier soir ils braconnent sur les terres du #PS et #PC."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@JiMFDV avec travaux on descend à 2h30 avec desserte des territoires traversés. La LGV c'est des milliards pour 2h5 et abandon du territoire"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Conférence le 11/12: #COP21 Biodiversité et changement climatique (via @ecologiEnergie) https://t.co/7OtBaEfV2m"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "tu vois la côte de popularité d'un candidat tv au nombre de RT et J'aime ..pour certain c plus la gloire ...si elle a existé un jour .."
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 72 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "tu vois la côte de popularité d'un candidat tv au nombre de RT et J'aime ..pour certain c plus la gloire ...si elle a existé un jour .."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Confirmation officielle par @ToroRossoSpy : retour (après 2007 à 2013) de la motorisation #Ferrari pour 2016 (avec des moteurs 2015). #F1"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Confirmation officielle par @ToroRossoSpy : retour (après 2007 à 2013) de la motorisation #Ferrari pour 2016 (avec des moteurs 2015). #F1"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@EmyEJDreams18 c'est sympa un petit retour en 1700-1800 voyons x')"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "je cherche a me former dans le marketing de reseau"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "You youze tou caule me on my sell fone"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 73 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@MchNeazTer @ScrimsVite nnnn on a split puisque notre last pouvez pas bcp jouer, du coup on reforme R avec un de mes m8"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "//roulement de tambour//"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "//roulement de tambour//"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@Olivierm99 c'est bien  @MiladyFR qui a acheté les droits, ou je n'ai pas très bien compris ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "https://t.co/RHK0e9eqlh"
+ 
+Simulating human response : 1 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Muy bonito Lyon, debo regresar más adelante definitivamente."
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 74 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Et après quand on les lâches  MAIS PK CBATARD CFDP  BAH OUAIS MAIS QUAND ON EST LA VOUS PARLEZ CHINOIS ET VOUS NOUS PRENEZ POUR DES CLI"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@cyrilmathey69 oui c'est vrai...qu''aurait-il pensé de tout ça ? Le socialisme dans le Nord ça voulait dire quelque chose."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@cyrilmathey69 oui c'est vrai...qu''aurait-il pensé de tout ça ? Le socialisme dans le Nord ça voulait dire quelque chose."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@BFMTV Il faudrait plutôt s'inquiéter de savoir cmt recupérer ce que la gauche a gâché pdt ces dernieres années UMP ou FN ils vont en chier"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@taegukie i think Rap Monster likes latino song or he doesn't know. but i'm sure that if he watch the videos, he will like. ahaha"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@vxwdoo @nobutyas ptn mathias"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 75 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Hakim t le meilleur"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "dsl prsn pourra monter sur moi en acrosport mon dos est fracassé"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "dsl prsn pourra monter sur moi en acrosport mon dos est fracassé"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@camille453gsl @TweetDelice ouai c est vrai"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@_NashyBRixton  https://t.co/vO9NmZvVYC"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@ToriKelly SAMEJBNGSFJLKNFJVWRGBFJDKNGJFKGNFJKSVNFDJKNDVJKLSDJIFSEDFHJEN?KDLJMCEUJGFDHNCIZLHNVUFDWJKJXGUNFJVCBNUFJHVBWFUDJVBFWDJKFCRUFIGBHJN"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 76 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "je tourne à gauche elle tourne à gauche je me dirige à droite elle aussi, c'est pas de ma faute"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@ParisJeTaime  #8decembrefrance @8decembrefrance"
+ 
+Simulating human response : 1 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@ParisJeTaime  #8decembrefrance @8decembrefrance"
+ 
+Simulating human response : 1 
+
+Using Random Sampling :
+Tweet :  "@JohnnyChienDoux a un mec de la république pourrait se faire des courses avec les gens qui"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Limoges mdr on va se faire défoncer"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@lesseriesTF1 ya aussi aroow tres bien ecrit acteur top pourquoi sa baisse au etat unis"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 77 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "En direct de Conseil municipal : les orientations budgétaires 2016 en débat pour un budget de résistance https://t.co/oaqzlPwJAh #Vénissieux"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "je cherche a me former dans le marketing de reseau"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "je cherche a me former dans le marketing de reseau"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui, est prêt à toutes compromissions pour sa place ! #lesRepublicains"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@worldwidekeaton @sammywilk CONGRARAAAAAAAATS OMGHJH"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Got the pollution goin' up, on a thursdaaaaay. ♥ @ Lyon, France https://t.co/EvX32qdEbU"
+ 
+Simulating human response : 1 
+
+
+#################################################
+Query number 78 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Quand j'apprends que le FN ne fait que 15% dans mon arrondissement à Lyon . nnBlack Bobo Beur. https://t.co/wYSLVFuZ2N"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@nobutyas enkor une foi tu me kategoriz j'en é mar je suis rien du tt ok"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@nobutyas enkor une foi tu me kategoriz j'en é mar je suis rien du tt ok"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@diastemes Vincent Delerm."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Morning #intermedia #lyon Journalistes u0026amp 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@taegukie false, j'aime bien les cheveux de namjoon. nkookie =u0026gt 
+Simulating human response : 0 
+
+
+#################################################
+Query number 79 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Europe1 @jmaphatie je n'ai pas le temps c'est dommage !!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "https://t.co/RHK0e9eqlh"
+ 
+Simulating human response : 1 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "https://t.co/RHK0e9eqlh"
+ 
+Simulating human response : 1 
+
+Using Random Sampling :
+Tweet :  "essai de crowd funding avec l'atelier crowd funding du Pilat pour mettre en place la communication de l'expo In u0026amp 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "😔"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@UmmSuhayb y en a plus j'pari avecla grosse"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 80 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "https://t.co/o5jxiU1O4S"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Conférence le 11/12: #COP21 Biodiversité et changement climatique (via @ecologiEnergie) https://t.co/7OtBaEfV2m"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Conférence le 11/12: #COP21 Biodiversité et changement climatique (via @ecologiEnergie) https://t.co/7OtBaEfV2m"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Y en à il lache des  snap bug sa mere la pute  , on voit les priorités de certains dans la vie 😒😒"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@bubucatt Bueno fue de noche, en españa era ya 9, y siempre me acuerdo y lo recuerdo con una vela"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@BlondeauAlexis Vous mélangez tout, les ambitions nationales et régionales, les auteurs de message et ceux que vous associez.. Décidément!.."
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 81 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "COP21: Call for ACTION on Climate Change! by @Kishva Chairperson of @Official_CYC https://t.co/c4tQtsIKLX https://t.co/W0eROKnGdp"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Gros projet avec la evoX ... vers un changement... #soon."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Gros projet avec la evoX ... vers un changement... #soon."
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@BintHarith_ @iam_inesss wen"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@France3Provence PROGRAMMES du PS et REPUBLICAINS:  C'EST BATACLAN 2  ILS ont FAIT ASSEZ DE CONNERIES COMME ça! ça SUFFIT-MERCI AU-REVOIR (G"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Psychodelie :("
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 82 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@France4TV Outlander : plus de 27 million livres vendus dans 27 pays #FranceNeedsOutlander https://t.co/W396mvCNDI"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "j'me pose 10min après j'vais me doucher et tout et à 17:45 j'bouge au conseil de classe"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "j'me pose 10min après j'vais me doucher et tout et à 17:45 j'bouge au conseil de classe"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "https://t.co/6iMO1FesvI"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "trois beaux livres qui nous plongent dans le monde de la radio https://t.co/kCv9hhOjtC @editionsduchene https://t.co/5MYWrTqj5R"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "hemen evlenelim askim! @ArdaTuran https://t.co/EGKjNed2Gr"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 83 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Saint West 🤔🤔🤔"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "LUNDI DES PRINCESSES + 👸🏻💪🏻 Je te masse je te fais du bien, Tu me masses tu fais du bien #businesswoman #bienetre https://t.co/HhVXvd0y05"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "LUNDI DES PRINCESSES + 👸🏻💪🏻 Je te masse je te fais du bien, Tu me masses tu fais du bien #businesswoman #bienetre https://t.co/HhVXvd0y05"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "I spent the last hour improvising to myself. Sure I woke up my flatmate stating You did not heed my call, you cannot join me in Valhalla."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Ohhh cst un groo clip"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@taegukie @henrylau89 @BTS_twt planche de surf je te jure, MDR c'ets la vérité... même moi je fais moins planche de surf."
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 84 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Frugheon_D @adroitetoutes01 https://t.co/s4fafbuwb1"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@saMiicchan @Neslyha"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@saMiicchan @Neslyha"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@ElisaMoua tu te dis l'inverse et ca fait un beau cadeaux  
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@JMS_NGC_ @IsabelScigliano quelle conne !"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#TPMP comment ne pas être d'accord avec @EnoraMofficiel c vrai on nous a montré que le bon côtés des choses !"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 85 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@zoebeliebs bah je sais... nsur si je vais en Corée, je vais passer un casting MDR"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@zebodag @francediplo nElle veut dire qu'il y a des femmes qui ont mauvais genre..!?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@zebodag @francediplo nElle veut dire qu'il y a des femmes qui ont mauvais genre..!?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#LRDS Samir en parlant de DÉDÉ, on dirait l'inspecteur Gadget mdr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@Min_Finances @_Bercy_ @partisocialiste @Mitterand_F #LeCopainPS #lescopainsdabord #lechangementcestmaintenant #13decembre"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "L'électeur FN est un homme jeune, ouvrier qui n'a pas le bac. Le mec relou qui te parle de ses parties intimes le soir quand tu rentres quoi"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 86 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@acritas29 et je ne m'emporte pas je suis heureux cette nuit"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "#LRDS @M6 Cela fait 28 minutes que l'émission a commence et déjà twitter s'enflamme pour 2 candidats, bien joué 👏🏻 https://t.co/B6GxbYBV1j"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "#LRDS @M6 Cela fait 28 minutes que l'émission a commence et déjà twitter s'enflamme pour 2 candidats, bien joué 👏🏻 https://t.co/B6GxbYBV1j"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "https://t.co/9tUParnSMB"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@zoebeliebs comment ça ? tu me vois comme BEVERLY ?? hahah"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "#LRDS Je suis très bien impressionné par Adrien, c bon Xtina elle t'a dans la poche !!!"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 87 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Muy bonito Lyon, debo regresar más adelante definitivamente."
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Olivierm99 c'est bien  @MiladyFR qui a acheté les droits, ou je n'ai pas très bien compris ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Olivierm99 c'est bien  @MiladyFR qui a acheté les droits, ou je n'ai pas très bien compris ?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#BelleTouteNue bravo encore pour cette émission , quelle belle performance sur Twitter compte tenue de l'heurebravo https://t.co/cg6ueoSVAz"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Elams - homme à terre"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "LeDrian en Bretagne a rejeté une alliance avec les Verts ! Bartholone lui, est prêt à toutes compromissions pour sa place ! @Lopinion_fr"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 88 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@ZuhroTheory Pour work !"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "damm so famouss"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "damm so famouss"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "César, l'homme qui parlait aux chiens Aujourd'hui à 20:35 sur Nat Geo Wild.nn https://t.co/PNyWNEAboB nvia @TeleLoisirs @NatGeoWildFr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Le petit con du PSG recommence @Bastwins  https://t.co/yJ6Ng91FKG"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Nardine l'anxiété matinale  #runninggag  #afewbaddays"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 89 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Sunrise F N victory No 1 party in France despite media slag. French folk fed up, stalled economy, migrants u0026amp 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@fawaz_dr @osamaalkhamees nههههههههههههnأي رقّة هذه...☺"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@fawaz_dr @osamaalkhamees nههههههههههههnأي رقّة هذه...☺"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Accuser Sarkozy de la montée FN,c'est entretenir le déni de réalité du pays! Une illusion qui ne fera que renforcer FN @lesRep_ScPo"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "UN PROCHE D'HARLEM DESIR AURAIT FOURNI LA DROGUE AUX TERRORISTES!!!nen effet ils ne peuvent pas se suicider sans drogue (regard froid vide)"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Pourquoi ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 90 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@LeyLaLaa @powderwhite @travelistajess most epic trip EVER. Thanks so much for an amazing experience! u0026lt 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Yazmaya üşeniyorum"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Yazmaya üşeniyorum"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Teams for Etoile de Besseges announced https://t.co/Eq0Nnxc6sY"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@DJFLP1 do the damm dishes son"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Maria_Poussifeu https://t.co/NVHTJz5Z73"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 91 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Samir il casse deja les couilles sa svoit cest un arabe"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Joyeux anniversaire à @fredpiqoff joueur super sympa que j'ai eu la chance de côtoyer lors de sont passage à @OL"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Joyeux anniversaire à @fredpiqoff joueur super sympa que j'ai eu la chance de côtoyer lors de sont passage à @OL"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Ferme la T puceau  https://t.co/uHBwcjHCXz"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "UNE VILLE SANS HISTOIRE DIT LE CRETIN DE JOURNALISTE PARCE QUE CES DERNIERS ONT VOTES FN !!!!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@CaroleMiramont lutte contre les pollutions nucléaires par aspiration du nuage radioactif : https://t.co/t78mtIgbt3"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 92 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@AurelASM Lui il a une étoile"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@courbet_julien  LUNETTES  CHANGEE BARBE QUE JE N AIME PAS,TEE SHIRT CHANGé  MAIS JE NE SUIS QU UNE VIELLE  MAIS JE REGARGERAI BISES  
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@courbet_julien  LUNETTES  CHANGEE BARBE QUE JE N AIME PAS,TEE SHIRT CHANGé  MAIS JE NE SUIS QU UNE VIELLE  MAIS JE REGARGERAI BISES  
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@TPMPofficiel #JeuTPMP appelle moi @Cyrilhanouna  ! Baba tu es le meilleur ! biz à toute l'équipe ❤❤ !!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "#Instagram #Followme 🐻 https://t.co/Vhk5n17jf1"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "الساعة 5:12 ، تصويت 👑nnhttps://t.co/pT0QMLFVtu https://t.co/PR7r1mZ3HK"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 93 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Après leur belle victoire face à Calais, les Lionnes ont repris le chemin de l'entraînement : J-5… https://t.co/4WVwrduksP"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "Je m'attendais à pire en fait"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "Je m'attendais à pire en fait"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Muy bonito Lyon, debo regresar más adelante definitivamente."
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "COP21: Call for ACTION on Climate Change! by @Kishva Chairperson of @Official_CYC https://t.co/c4tQtsIKLX https://t.co/W0eROKnGdp"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@Olivierm99 c'est bien  @MiladyFR qui a acheté les droits, ou je n'ai pas très bien compris ?"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 94 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@HibouDiurne @Kazog29 @_Alex_Effect_ @Prophetie91 Même pas !"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "J'crois bien qu'il.va mourir d'une thumeur se fdp de sirqoz"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "J'crois bien qu'il.va mourir d'une thumeur se fdp de sirqoz"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@NeiluJBitches VZKakashi ou VEZI0KING"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@lobs @OAAGFX57 Ce n'est pas gagné!!! Ils l'auront cherché...Siège éjectable pour Walls... https://t.co/l3UMTwb3j0"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Tous les mythos sur nos têtes valent pas la vérité sur sa tête"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 95 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Le travail que je devais rendre Hier https://t.co/o7Wfh2IVOi"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "demain c'est mon aniv wesh"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "demain c'est mon aniv wesh"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Le temp c'est de l'argent"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "Hakim t le meilleur"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@nthfdl j'suis sûre tu fantasmes sur lui la nuit"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 96 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@Nadal44801402 @thomasSNCHZ @trashtalkzr la vraie nature de John révélée au grand jour"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@taegukie false, j'aime bien les cheveux de namjoon. nkookie =u0026gt 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@taegukie false, j'aime bien les cheveux de namjoon. nkookie =u0026gt 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Palestinian's Dream Radio: “In the last two months they switched focus very much to incitement against Israel"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "#LRDS pour rafraichir quoi, au juste ?"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@France3Provence PROGRAMMES du PS et REPUBLICAINS:  C'EST BATACLAN 2  ILS ont FAIT ASSEZ DE CONNERIES COMME ça! ça SUFFIT-MERCI AU-REVOIR (G"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 97 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Je crois que j'ai trouvé les locaux ou je vais monter mon projet u0026lt 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@MatdelOL ?"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@MatdelOL ?"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "#LRDS Samir mon dieu il se la pête trop !!!!"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@mimictout2 @LeilaBenKhalifa mdrrrrrr"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "Et direction Amsterdam 🔥"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 98 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "Limoges mdr on va se faire défoncer"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@mimictout2 @LeilaBenKhalifa oh, caramel est pour moi!!!"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@mimictout2 @LeilaBenKhalifa oh, caramel est pour moi!!!"
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "@OCSTV a déjà Black Sails de la Starz ... bientôt Outlander ? #FranceNeedsOutlander https://t.co/4s7gcL5jgw"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@fleurpellerin Accédez à mon site sur la lutte contre les pollutions nucléaires : https://t.co/t78mtIgbt3"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@BZH2991 UN PROCHE D'HARLEM DESIR AURAIT FOURNI LA DROGUE AUX TERRORISTES!!!nen effet ils ne peuvent pas se suicider sans drogue (regard fro"
+ 
+Simulating human response : 0 
+
+
+#################################################
+Query number 99 : 
+#################################################
+Using Uncertainty Sampling (Least confident) :
+Tweet :  "@clmntbad Merci beaucoup :)"
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Smallest Margin) :
+Tweet :  "@Psychodelie :("
+ 
+Simulating human response : 0 
+
+Using Uncertainty Sampling (Entropy) :
+Tweet :  "@Psychodelie :("
+ 
+Simulating human response : 0 
+
+Using Random Sampling :
+Tweet :  "Tah l'époque ! ^^ https://t.co/FaO0u1cZCO"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (Vote Entropy) :
+Tweet :  "@UnEnfantdAdam bien sûr wallah jai passer mon enfance dessus je lai mm racheter sur le PSN et le PC"
+ 
+Simulating human response : 0 
+
+Using QueryByCommittee (KL Divergence) :
+Tweet :  "@nobutyas jspr pck g pa envie dme confronter avk toi"
+ 
+Simulating human response : 0 
+
+
+
+
+#################################################
+Execution time : 35.355117s 

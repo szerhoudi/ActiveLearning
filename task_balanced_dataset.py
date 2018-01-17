@@ -178,7 +178,7 @@ def main():
 
     # model = SVM(kernel='linear')
     # model = LogisticRegression()
-    model = RandomForestClassifier(n_estimators=100, oob_score=True, random_state=123456)
+    model = RandomForestClassifier()
 
     ''' UncertaintySampling (Least Confident)
 
@@ -292,7 +292,7 @@ def main():
     p7, = ax.plot(query_num, E_out7, 'purple')
     plt.legend(
         ('Least Confident', 'Max Margin', 'Distance Diversity CMB', 'Random Sampling', 'Vote Entropy', 'KL Divergence'),
-        loc=1)
+        loc=4)
     plt.ylabel('Accuracy')
     plt.xlabel('Number of Queries')
     plt.title('Active Learning - Query choice strategies')
@@ -398,7 +398,7 @@ def main():
         # E_out7 = np.append(E_out7, 1 - model.score(tst_ds))
 
         ax.set_xlim((0, i + 1))
-        ax.set_ylim((0, max(max(E_out1), max(E_out2), max(E_out3), max(E_out4), max(E_out6), max(E_out7)) + 0.2))
+        ax.set_ylim((0, max(max(E_out1), max(E_out2), max(E_out3), max(E_out4), max(E_out6), max(E_out7)) + 0.1))
         query_num = np.arange(0, i + 2)
         p1.set_xdata(query_num)
         p1.set_ydata(E_out1)
